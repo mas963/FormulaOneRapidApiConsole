@@ -13,7 +13,7 @@ class Program
             RequestUri = new Uri("https://fia-formula-1-championship-statistics.p.rapidapi.com/api/teams"),
             Headers =
     {
-        { "X-RapidAPI-Key", "663c0c54f3msh819c0927988a3dfp1e4d4ajsn299c5b788571" },
+        { "X-RapidAPI-Key", "KEY" },
         { "X-RapidAPI-Host", "fia-formula-1-championship-statistics.p.rapidapi.com" },
     },
         };

@@ -1,0 +1,17 @@
+D:\csharp_2\FormulaOneRapidApiConsole\FormulaOneRapidApiConsole\obj\Debug\net7.0\FormulaOneRapidApiConsole.csproj.AssemblyReference.cache
+D:\csharp_2\FormulaOneRapidApiConsole\FormulaOneRapidApiConsole\obj\Debug\net7.0\FormulaOneRapidApiConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp_2\FormulaOneRapidApiConsole\FormulaOneRapidApiConsole\obj\Debug\net7.0\FormulaOneRapidApiConsole.AssemblyInfoInputs.cache
+D:\csharp_2\FormulaOneRapidApiConsole\FormulaOneRapidApiConsole\obj\Debug\net7.0\FormulaOneRapidApiConsole.AssemblyInfo.cs
+D:\csharp_2\FormulaOneRapidApiConsole\FormulaOneRapidApiConsole\obj\Debug\net7.0\FormulaOneRapidApiConsole.csproj.CoreCompileInputs.cache
+D:\csharp_2\FormulaOneRapidApiConsole\FormulaOneRapidApiConsole\bin\Debug\net7.0\FormulaOneRapidApiConsole.exe
+D:\csharp_2\FormulaOneRapidApiConsole\FormulaOneRapidApiConsole\bin\Debug\net7.0\FormulaOneRapidApiConsole.deps.json
+D:\csharp_2\FormulaOneRapidApiConsole\FormulaOneRapidApiConsole\bin\Debug\net7.0\FormulaOneRapidApiConsole.runtimeconfig.json
+D:\csharp_2\FormulaOneRapidApiConsole\FormulaOneRapidApiConsole\bin\Debug\net7.0\FormulaOneRapidApiConsole.dll
+D:\csharp_2\FormulaOneRapidApiConsole\FormulaOneRapidApiConsole\bin\Debug\net7.0\FormulaOneRapidApiConsole.pdb
+D:\csharp_2\FormulaOneRapidApiConsole\FormulaOneRapidApiConsole\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\csharp_2\FormulaOneRapidApiConsole\FormulaOneRapidApiConsole\obj\Debug\net7.0\FormulaOneRapidApiConsole.csproj.CopyComplete
+D:\csharp_2\FormulaOneRapidApiConsole\FormulaOneRapidApiConsole\obj\Debug\net7.0\FormulaOneRapidApiConsole.dll
+D:\csharp_2\FormulaOneRapidApiConsole\FormulaOneRapidApiConsole\obj\Debug\net7.0\refint\FormulaOneRapidApiConsole.dll
+D:\csharp_2\FormulaOneRapidApiConsole\FormulaOneRapidApiConsole\obj\Debug\net7.0\FormulaOneRapidApiConsole.pdb
+D:\csharp_2\FormulaOneRapidApiConsole\FormulaOneRapidApiConsole\obj\Debug\net7.0\FormulaOneRapidApiConsole.genruntimeconfig.cache
+D:\csharp_2\FormulaOneRapidApiConsole\FormulaOneRapidApiConsole\obj\Debug\net7.0\ref\FormulaOneRapidApiConsole.dll
